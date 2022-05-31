@@ -3,8 +3,9 @@
 > Terjemahan Bahasa Indonesia untuk [Mod Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia?label=Versi%20Terbaru&style=plastic) ![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia?label=license&style=plastic)
-<img src="https://github.com/YugoSamakuhaku/Automate-Bahasa-Indonesia/blob/3a948ef8470cd7358c16adfc88f9d3bda46cd4c6/images/Automate-Settings.png" />
-<img src="https://github.com/YugoSamakuhaku/Automate-Bahasa-Indonesia/blob/3a948ef8470cd7358c16adfc88f9d3bda46cd4c6/images/Automate-Settings-Hover.png" />
+<img src="https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/blob/cd774239538ff605ff8fcc754fc1d44a653d9901/images/ChestAnywhere-Settings.png" />
+<img src="https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/blob/cd774239538ff605ff8fcc754fc1d44a653d9901/images/ChestAnywhere-Settings-Hover.png" />
+<img src="https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/blob/cd774239538ff605ff8fcc754fc1d44a653d9901/images/ChestAnywhere-Settings-Chests.png" />
 ## 📦 Persyaratan Mod
 - [x] **Mod ini dibantu menggunakan Google Translate serta kemampuan otak saya, Mohon dimaklumi jika ada kesalahan kata-kata yang kurang tepat. Terima Kasih👍**
 
@@ -20,10 +21,10 @@ Mod ini bersi file terjemahan default.json [`Chests Anywhere`](https://www.nexus
 
 ### 📚 Cara Pemasangan Mod
 1. Download dan pasang semua **persyaratan Mod** di atas.
-2. Download Mod [Chests Anywhere - Bahasa Indonesia](https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/release/latest).
+2. Download Mod [Chests Anywhere - Bahasa Indonesia](https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/releases/latest).
 3. Anda buka **Folder Mod Anda** dan cari [**Folder Mod Chest Anywhere**](https://www.nexusmods.com/stardewvalley/mods/518).
 4. Apakah anda melihat **Folder i18n** pada Mod Automate Anda?
-5. Jika **iya**, copy id.json pada Mod [Chests Anywhere - Bahasa Indonesia](https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/release/latest) kedalam [**Folder i18n**](https://www.nexusmods.com/stardewvalley/mods/518).
+5. Jika **iya**, copy id.json pada Mod [Chests Anywhere - Bahasa Indonesia](https://github.com/YugoSamakuhaku/ChestsAnywhere-Bahasa-Indonesia/releases/latest) kedalam [**Folder i18n**](https://www.nexusmods.com/stardewvalley/mods/518).
 6. Jika anda telah selesai melakukan copy file dan mengikuti cara pemasangan ini, saya berharap Mod anda berhasil menjadi Bahasa Indonesia🤩.
 
 ### 🥰 Kenapa Saya Membuat Mod ini?
