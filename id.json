@@ -1,0 +1,97 @@
+﻿{
+    /**********
+    ** Chest UI
+    **********/
+    // default chest names
+    "default-name.fridge": "Kulkas",
+    "default-name.other": "{{name}} #{{number}}",
+    "default-name.shipping-bin.store": "Pengirim Barang",
+    "default-name.shipping-bin.take": "Pengambil Barang",
+
+    // default category names
+    "default-category.owned-cabin": "Kabin ({{owner}})",
+    "default-category.unowned-cabin": "Kabin (empty)",
+    "default-category.duplicate": "{{locationName}} #{{number}}",
+
+    // edit-chest labels
+    "label.location": "Lokasi",
+    "label.location.tile": "Koordinat {{x}}, {{y}}",
+    "label.name": "Nama",
+    "label.category": "Kategori",
+    "label.order": "Urutan",
+    "label.hide-chest": "Sembunyikan Peti ini",
+    "label.hide-chest-hidden": "Sembunyikan peti ini (pemain harus menemukan peti ini untuk membatalkannya!)",
+    "label.automate-options": "Automate(Mod)",
+    "label.automate-store": "Letakan barang di peti ini",
+    "label.automate-store-first": "Letakan barang di peti ini [duluan/pertama]",
+    "label.automate-store-disabled": "Jangan pernah letakan barang di peti ini",
+    "label.automate-take": "Ambil barang dari peti ini",
+    "label.automate-take-first": "Ambil barang dari peti ini [duluan/pertama]",
+    "label.automate-take-disabled": "Jangan pernah mengambil barang dari peti ini",
+    "label.automate-prevent-remove-stacks": "Hindari penghapusan barang terakhir dalam tumpukan",
+
+    // button labels
+    "button.edit-chest": "Ubah Peti",
+    "button.sort-inventory": "Rapikan",
+    "button.save": "Simpan",
+    "button.reset": "Reset",
+
+
+    /**********
+    ** Errors
+    **********/
+    "errors.disabled-from-here": "Anda tidak dapat membuka peti di sini",
+    "errors.no-chests": "Anda belum memiliki peti.",
+    "errors.no-chests-in-location": "Anda tidak memiliki peti di lokasi ini.",
+    "errors.no-chests-in-range": "Anda tidak memiliki peti dalam jangkauan saat ini.",
+
+
+    /**********
+    ** Generic Mod Config Menu UI
+    **********/
+    // general options
+    "config.title.general-options": "Pengaturan Umum",
+    "config.show-hover-tooltips.name": "Tampilkan Hover Tooltips",
+    "config.show-hover-tooltips.desc": "Jika Aktif, akan menampilkan nama peti(tooltips) saat kursor diarahkan ke peti.",
+    "config.enable-shipping-bin.name": "Aktifkan shipping bin",
+    "config.enable-shipping-bin.desc": "Jika Aktif, maka shipping bin akan ditampilkan/dapat diakses.",
+    "config.add-organize-player-items.name": "Aktifkan Tombol Rapikan Barang",
+    "config.add-organize-player-items.desc": "Saat menekan tombol menu UI [Chests Anywhere] untuk membuka chest, terdapat tombol Rapikan pada inventory pemain.",
+    "config.range.name": "Jarak",
+    "config.range.desc": "Jarak peti yang dapat diakses oleh pemain.",
+    "config.range.unlimited": "Semua peti",
+    "config.range.currentWorldArea": "Peti di dalam dunia anda saat ini",
+    "config.range.currentLocation": "Peti di dalam lokasi saat ini",
+    "config.range.none": "Tidak ada (Tidak dapat mengakses peti dari jarak jauh)",
+
+    // general controls
+    "config.title.general-controls": "Kontrol Umum",
+    "config.toggle-ui-key.name": "Tombol UI",
+    "config.toggle-ui-key.desc": "Tombol yang digunakan untuk mengaktifkan UI [Chests Anywhere]",
+
+    // controls when chest UI is open
+    "config.title.menu-controls": "Kontrol UI Saat dibuka",
+    "config.edit-chest.name": "Ubah Peti",
+    "config.edit-chest.desc": "Tombol untuk mengubah pengaturan peti yang dibuka.",
+    "config.sort-items.name": "Rapikan Barang",
+    "config.sort-items.desc": "Tombol untuk merapikan barang di peti yang dibuka.",
+    "config.navigate-prev-chest.name": "Navigasi: Peti Sebelumnya",
+    "config.navigate-prev-chest.desc": "Tombol untuk berpindah ke peti sebelumnya saat menu dibuka.",
+    "config.navigate-next-chest.name": "Navigasi: Peti Selanjutnya",
+    "config.navigate-next-chest.desc": "Tombol untuk berpindah ke peti selanjutnya saat menu dibuka",
+    "config.navigate-prev-category.name": "Navigasi: Kategori Sebelumnya",
+    "config.navigate-prev-category.desc": "Tombol untuk berpindah ke kategori sebelumnya saat menu dibuka.",
+    "config.navigate-next-category.name": "Navigasi: Kategori Selanjutnya",
+    "config.navigate-next-category.desc": "Tombol untuk berpindah ke peti selanjutnya saat menu dibuka.",
+    "config.hold-to-scroll-categories.name": "Tahan untuk Scroll Kategori",
+    "config.hold-to-scroll-categories.desc": "Tombol yang, ketika ditahan, akan mengaktifkan scroll kategori turun kebawah dengan scroll mouse pemain.",
+    "config.hold-to-scroll-chests.name": "Tahan untuk Scroll Peti",
+    "config.hold-to-scroll-chests.desc": "Tombol yang, ketika ditahan, akan mengaktifkan scroll peti turu kebawah dengan scroll mouse pemain.",
+
+    // disable in locations
+    "config.title.disable-in-locations": "Tidak Aktifkan saat di Lokasi",
+    "config.disable-mines.name": "Tambang dan Gua Tengkorak",
+    "config.disable-mines.desc": "Jika aktif, maka player tidak akan bisa mengaktifkan UI [Chests Anywhere] saat di Tambang(mines) dan Gua Tengkorak(Skull Cavern)",
+    "config.disable-custom-names.name": "Nama Lokasi Khusus",
+    "config.disable-custom-names.desc": "Menggunakan Nama Internal (seperti yang ditampilkan oleh mod [Mode Debug]) untuk membuat UI [Chests Anywhere] tidak aktif di lokasi tersebut. Tambahkan koma jika lebih dari 1 lokasi"
+}
